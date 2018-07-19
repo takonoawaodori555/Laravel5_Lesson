@@ -1,3 +1,13 @@
+## Laravel4_Lesson
+
+書籍『Laravel入門/ 著・掌田 津耶乃』を実際にコードを打って学習しました。LaravelのMVCの基礎は体験できました。
+
+![Imgur](https://i.imgur.com/AmwUmS4.jpg)
+
+単行本: 351ページ
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
