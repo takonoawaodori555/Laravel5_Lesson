@@ -1,4 +1,4 @@
-## Laravel4_Lesson
+## Laravel5_Lesson
 
 書籍『Laravel入門/ 著・掌田 津耶乃』を実際にコードを打って学習しました。LaravelのMVCの基礎は体験できました。
 
